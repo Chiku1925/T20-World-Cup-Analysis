@@ -1,6 +1,6 @@
 # T20-World-Cup-Analysis
 ## Problem Statement:
-In This project Created a Power BI Dashboard which helps to review and compare performances of all the players in T20 Men's Cricket World Cup 2022 tournament. This dashboard also enables us to select the best 11 of the tournament based on their performance based on defined selection criteria which is included as a part of problem statement.
+In This project I Created a Power BI Dashboard which helps to review and compare performances of all the players in T20 Men's Cricket World Cup 2022 tournament. This dashboard also enables us to select the best 11 of the tournament based on their performance based on defined selection criteria which is included as a part of problem statement.
 ![world cup image](https://github.com/user-attachments/assets/cf7e79b8-6eab-409a-ac71-2375df54a271)
 
 ### Openers
